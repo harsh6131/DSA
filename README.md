@@ -8,6 +8,7 @@
 
 - 🐙 [GitHub](https://github.com/harsh6131)
 - 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
+- 🚀 [Codeforces](https://codeforces.com/profile/harsh__6131)
 ---
 ## 🧠 About This Repository
 
