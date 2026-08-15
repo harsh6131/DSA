@@ -1,5 +1,5 @@
 # DSA
 leetcode and GeekforGeeks
 
-[![LeetCode Stats]]([https://leetcode.com/u/harsxh__6131/])
+My leet code Profile :- https://leetcode.com/u/harsxh__6131/
 
