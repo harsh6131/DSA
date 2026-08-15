@@ -45,5 +45,27 @@ LeetCode/
 └── 🔀 Sorting/
 
 ```
+---
+
+## 👥 Authors
+
+- **Harshvardhan Singh Jaisawat** - *Initial work* - [Harshvardhan Singh Jaisawat](https://github.com/harsh6131)
+
+---
+
+## 📞 Support
+
+For support, email singhharsh6131@gmail.com or open an issue on GitHub.
+
+---
+___   
+<div align="center">
+
+**Made with ❤️ Thank You**
+
+
+</div>
+
+
 
 
