@@ -4,7 +4,11 @@
 > 🚀 A collection of my **LeetCode solutions** as I learn, practice, and improve my Data Structures & Algorithms skills.
 
 ---
+##🔗 Profiles
 
+- 🐙 [GitHub](https://github.com/harsh6131)
+- 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
+---
 ## 🧠 About This Repository
 
 This repository contains my solutions to **LeetCode problems**, organized by topic to make them easy to explore and review.
@@ -39,7 +43,4 @@ LeetCode/
 ├── 🔄 Recursion/
 └── 🔀 Sorting/
 
-## 🔗 Profiles
 
-- 🐙 [GitHub](https://github.com/harsh6131)
-- 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
