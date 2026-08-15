@@ -1,4 +1,5 @@
 # DSA
 leetcode and GeekforGeeks
 
-[![Leetcode]([(https://leetcode.com/u/harsxh__6131/))
+[![LeetCode Stats](https://vercel.app)]([https://leetcode.com/u/harsxh__6131/])
+
