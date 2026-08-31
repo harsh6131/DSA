@@ -4,7 +4,7 @@
 > 🚀 A collection of my **LeetCode solutions** as I learn, practice, and improve my Data Structures & Algorithms skills.
 
 ---
-##🔗 Profiles
+🔗 Profiles
 
 - 🐙 [GitHub](https://github.com/harsh6131)
 - 🧩 [LeetCode](https://leetcode.com/u/harsxh__6131/)
